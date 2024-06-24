@@ -1,0 +1,76 @@
+header {
+    width: 100%;
+    height: 130px;
+    background-color: #4CAF50;
+    display: flex;
+}
+
+body{
+    margin: 0; padding: 0;
+}
+
+.lizardicon {
+    width: 64px;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+.maintitle {
+    color: white;
+}
+
+nav {
+    margin: auto;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+}
+
+li{
+    padding: 15px;
+    display: inline-block;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.arttitle{
+    text-align: center;
+    padding: 20px;
+}
+
+.artdes{
+    text-align: center;
+}
+
+.lizardimage {
+    margin: auto;
+    width: 95%;
+    height: auto;
+    display: flex;
+}
+
+footer {
+    text-align: center;
+    background-color: #4CAF50;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    display: flexbox;
+}
+
+.Copyright  {
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
